@@ -1,3 +1,6 @@
+# git clone https://github.com/Majdawad88/ECET411_waterLevel.git
+
+
 import RPi.GPIO as GPIO
 from time import sleep
 GPIO.setwarnings(False)
